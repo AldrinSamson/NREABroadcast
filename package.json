@@ -1,0 +1,25 @@
+{
+  "name": "aeloop-broadcast",
+  "version": "1.0.0",
+  "description": "aeloop broadcast",
+  "main": "broadcast.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aldrin Samson",
+  "license": "ISC",
+  "dependencies": {
+    "airtable": "^0.8.1",
+    "airtable-plus": "^1.0.4",
+    "dotenv": "^8.2.0",
+    "email-validator": "^2.0.4",
+    "express": "4.13.4",
+    "fs": "^0.0.1-security",
+    "node-cron": "^3.0.0",
+    "node-fetch": "^2.6.0",
+    "request": "^2.79.0",
+    "viber-bot": "^1.0.6",
+    "winston": "^2.4.4",
+    "winston-console-formatter": "^0.3.1"
+  }
+}
